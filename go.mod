@@ -1,7 +1,5 @@
 module github.com/ychen9fw/exposure-notifications-server
 
-replace github.com/google/exposure-notifications-server => github.com/ychen9fw/exposure-notifications-server
-
 go 1.14
 
 require (
